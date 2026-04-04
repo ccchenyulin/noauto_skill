@@ -1,5 +1,9 @@
-- [ComfyUI/](ComfyUI/)
-  - [节点开发.md](ComfyUI/%E8%8A%82%E7%82%B9%E5%BC%80%E5%8F%91.md)
+<details>
+<summary>📁 ComfyUI/</summary>
+
+- [节点开发.md](ComfyUI/%E8%8A%82%E7%82%B9%E5%BC%80%E5%8F%91.md)
+
+</details>
 
 
 # 使用此模板引导编写元提示词
